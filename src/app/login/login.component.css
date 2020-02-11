@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
+
+#user-email {
+  padding: 2px;
+  margin: 5px;
+  width: 100%;
+
+
+}
+
+#user-password {
+  padding: 2px;
+  margin: 5px;
+  width: 100%;
+
+}
+
+.btn {
+  padding: 2px;
+  margin: 5px;
+  width: 100%;
+
+}
+
+#login {
+  background-image: url("src/assets/Page-Turner.svg");
+  background-repeat: no-repeat;
+  height: 100vh;
+
+}
